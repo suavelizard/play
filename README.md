@@ -2,7 +2,7 @@ Welcome to PlayJS!
 ===================
 
 
-PlayJS is a batteries included web boilerplate meant for plug and play.
+PlayJS is a batteries included web boilerplate meant to accelerate development for greenfield and time sensitive applications.
 
 
 Included modules
@@ -10,8 +10,9 @@ Included modules
  - ExpressJS - Web framework
  - Socket.io - For near-realtime communications
  - Morgan - Request logging for Express
- - Bull - Redis queue for handling jobs
- - Passport - User Authentication support
+ - Bull - Redis queue for handling jobs (In progress)
+ - Passport - User authentication support (In progress)
+ - JWT - Application authentication (In progress)
  - Pug - Templating if needed on the server
  - Sequelize - ORM for working against SQL databases
  - Swagger - Provides API documentation and explore interface
